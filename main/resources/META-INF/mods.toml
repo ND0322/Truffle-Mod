@@ -1,0 +1,37 @@
+
+modLoader="javafml" 
+
+loaderVersion="[38,)" 
+license="All rights reserved"
+[[mods]] 	
+
+modId="trufflemod" 
+
+version="${file.jarVersion}" 
+ 
+displayName="Truffle Mod"
+
+logoFile="examplemod.png" #optional
+
+credits="ND0322" #optional
+
+authors="Love, Cheese and small house plants" #optional
+
+description='''
+this is mod
+'''
+[[dependencies.trufflemod]] #optional
+    
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[38,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+    
+
+[[dependencies.trufflemod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18,1.19)"
+    ordering="NONE"
+    side="BOTH"

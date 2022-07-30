@@ -1,0 +1,6 @@
+{
+	"parent":"item/generated",
+	"textures": {
+		"layer0" : "trufflemod:item/gold_doge_coin"
+	}
+}

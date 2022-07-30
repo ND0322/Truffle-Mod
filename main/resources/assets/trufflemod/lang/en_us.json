@@ -1,0 +1,26 @@
+{
+	//Dogecoins
+	"item.trufflemod.bronze_doge_coin": "Bronze Doge Coin",
+	"item.trufflemod.silver_doge_coin": "Silver Doge Coin",
+	"item.trufflemod.gold_doge_coin": "Gold Doge Coin",
+	"item.trufflemod.diamond_doge_coin": "Diamond Doge Coin",
+	
+	//Weapons
+	"item.trufflemod.copperized_diamond_sword": "Copperized Diamond Sword",
+	"item.trufflemod.laser_storm_bow": "Laser Storm Bow",
+	
+	//Charm bag
+	"item.trufflemod.large_charm_bag": "Charm Bag",
+	
+	
+	//Charm Bases
+	"item.trufflemod.common_charm_base": "Common Charm Base",
+	"item.trufflemod.uncommon_charm_base": "Uncommon Charm Base",
+	"item.trufflemod.rare_charm_base": "Rare Charm Base",
+	"item.trufflemod.epic_charm_base": "Epic Charm Base",
+	"item.trufflemod.legendary_charm_base": "Legendary Charm Base",
+	"item.trufflemod.divine_charm_base": "Divine Charm Base",
+	
+	
+	"effect.trufflemod.copperized":"Copperized"
+}

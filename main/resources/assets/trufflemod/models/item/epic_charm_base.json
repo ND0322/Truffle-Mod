@@ -1,0 +1,6 @@
+{
+	"parent":"item/generated",
+	"textures": {
+		"layer0" : "trufflemod:item/epic_charm_base"
+	}
+}

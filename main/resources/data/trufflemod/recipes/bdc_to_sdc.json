@@ -1,0 +1,24 @@
+{
+	"type" : "minecraft:crafting_shapeless",
+	"ingredients": [
+    {
+      "item": "trufflemod:bronze_doge_coin"
+    },
+    {
+      "item": "trufflemod:bronze_doge_coin"
+    },
+    {
+      "item": "trufflemod:bronze_doge_coin"
+    },
+    {
+      "item": "trufflemod:bronze_doge_coin"
+    },
+    {
+      "item": "trufflemod:bronze_doge_coin"
+    }
+  ],
+  "result":{
+  	"item":"trufflemod:silver_doge_coin",
+  	"count":1
+  }
+}
